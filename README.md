@@ -9,3 +9,4 @@
 # 6. divide_and_conquerer_techique_binary_search_problem_6 --> uploaded on 15/01/22
 # 7. check_square_elements_of_another_array_problem_7 --> uploaded on 15/01/22
 # 8. check_square_elements_of_another_array-optimized_solution_problem_8 --> 28/02/22
+# 9. recursive_function_in_simplest_way_interview_preparation_problem_9 --> 28/02/22
